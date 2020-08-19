@@ -1,0 +1,19 @@
+{
+  "name": "three-way-switch",
+  "version": "1.0.0",
+  "description": "Three way switch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JattCoder/three-way-switch.git"
+  },
+  "author": "Harmandeep Mand",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JattCoder/three-way-switch/issues"
+  },
+  "homepage": "https://github.com/JattCoder/three-way-switch#readme"
+}
